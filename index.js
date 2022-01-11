@@ -49,7 +49,4 @@ exports.compare = {
   },
 };
 
-exports.time = 5000;
-exports.compareCount = 20;
-
 require("bench").runMain();
