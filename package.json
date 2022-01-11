@@ -1,0 +1,20 @@
+{
+  "name": "b64-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vincent Voyer",
+  "license": "ISC",
+  "dependencies": {
+    "64": "^0.2.0",
+    "base-64": "1.0.0",
+    "base64-js": "1.5.1",
+    "bench": "0.3.6",
+    "chance": "1.1.8",
+    "js-base64": "3.7.2"
+  }
+}
